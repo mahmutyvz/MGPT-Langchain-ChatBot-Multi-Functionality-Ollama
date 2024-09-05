@@ -12,8 +12,9 @@ MGPT-Langchain-ChatBot-Multi-Functionality-Ollama/
 The root variable in paths.py must be changed to the absolute path of the project.
 
 ### Install the required dependencies.
-
 ```shell
+Python 3.10.11 or higher is required.
+Ollama must be installed on your machine for optimal functionality. Link : https://ollama.com/download
 pip install -r requirements.txt
 ```
 
