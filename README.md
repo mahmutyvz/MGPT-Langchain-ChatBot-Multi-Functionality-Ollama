@@ -42,3 +42,10 @@ You can directly run the application, make training and predictions.
 ```bash
 streamlit run app.py
 ```  
+![Tool Preview 1](https://github.com/mahmutyvz/MGPT-Langchain-ChatBot-Multi-Functionality-Ollama/blob/d69f811be651590a1ed938a557cc30db41c11f10/images/chatbot1.png)
+![Tool Preview 2](https://github.com/mahmutyvz/MGPT-Langchain-ChatBot-Multi-Functionality-Ollama/blob/d69f811be651590a1ed938a557cc30db41c11f10/images/chatbot2.png)
+![Tool Preview 3](https://github.com/mahmutyvz/MGPT-Langchain-ChatBot-Multi-Functionality-Ollama/blob/d69f811be651590a1ed938a557cc30db41c11f10/images/chatbot3.png)
+![Tool Preview 4](https://github.com/mahmutyvz/MGPT-Langchain-ChatBot-Multi-Functionality-Ollama/blob/d69f811be651590a1ed938a557cc30db41c11f10/images/document1.png)
+![Tool Preview 5](https://github.com/mahmutyvz/MGPT-Langchain-ChatBot-Multi-Functionality-Ollama/blob/d69f811be651590a1ed938a557cc30db41c11f10/images/access1.png)
+![Tool Preview 6](https://github.com/mahmutyvz/MGPT-Langchain-ChatBot-Multi-Functionality-Ollama/blob/d69f811be651590a1ed938a557cc30db41c11f10/images/sql1.png)
+![Tool Preview 7](https://github.com/mahmutyvz/MGPT-Langchain-ChatBot-Multi-Functionality-Ollama/blob/d69f811be651590a1ed938a557cc30db41c11f10/images/about.png)
